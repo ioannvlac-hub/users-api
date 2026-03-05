@@ -1,4 +1,4 @@
-package com.example.users_manager.repository;
+package com.example.users_manager.repository.projections;
 
 public interface UserListProjection {
 

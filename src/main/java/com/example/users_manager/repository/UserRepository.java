@@ -2,11 +2,12 @@ package com.example.users_manager.repository;
 
 import com.example.users_manager.entity.User;
 import com.example.users_manager.entity.enums.Gender;
+import com.example.users_manager.repository.projections.UserListProjection;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.*;
 import org.springframework.data.repository.query.Param;
-import com.example.users_manager.repository.UserListProjection;
+
 
 public interface UserRepository extends JpaRepository<User, Long> {
 
