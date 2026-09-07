@@ -6,7 +6,7 @@ REST API for managing people. List, search, filter, create, edit, delete. Built 
 
 The front end for this API lives here:
 
-https://github.com/alexandrosgialantzis/Users-ui
+https://github.com/evangelosvlachos96-dotcom/users-api
 
 ## Data
 
@@ -64,3 +64,5 @@ Then the app:
 Runs on port 8080. Tables are created on first start.
 
 The database settings in `application.properties` match the docker compose file, so nothing needs editing to run it locally.
+
+## MIT Licenseed
