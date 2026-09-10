@@ -6,7 +6,7 @@ REST API for managing people. List, search, filter, create, edit, delete. Built 
 
 The front end for this API lives here:
 
-https://github.com/evangelosvlachos96-dotcom/users-api
+https://github.com/ioannvlac-hub/users-api
 
 ## Data
 
